@@ -1,0 +1,54 @@
+.menu{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    list-style: none;
+    background-color: black;
+    color: aliceblue;
+    font-size: 2em;
+}
+.menu1{
+    display: flex;
+    gap: 30px;
+    justify-content: start;
+    list-style: none;
+    background-color: black;
+    color: aliceblue;
+    font-size: 2em;
+}
+.menu2{
+    display: flex;
+    gap: 30px;
+    justify-content: end;
+    list-style: none;
+    background-color: black;
+    color: aliceblue;
+    font-size: 2em;
+}
+.menu3{
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+    list-style: none;
+    background-color: black;
+    color: aliceblue;
+    font-size: 2em;
+}
+.menu4{
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+    list-style: none;
+    background-color: black;
+    color: aliceblue;
+    font-size: 2em;
+}
+.menu5{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    list-style: none;
+    background-color: black;
+    color: aliceblue;
+    font-size: 2em;
+}
